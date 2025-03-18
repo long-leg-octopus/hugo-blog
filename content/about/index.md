@@ -1,8 +1,8 @@
 ---
-title: "关于 Hugo NexT 组织"
+title: "关于我"
 
-date: 2022-06-09T20:12:52+08:00
-lastmod: 2022-06-09T20:12:52+08:00
+date: 2025-02-01T20:12:52+08:00
+lastmod: 2025-02-01T20:12:52+08:00
 
 share: false
 followme: false
