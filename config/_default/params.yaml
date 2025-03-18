@@ -612,7 +612,7 @@ yandexSiteVerification: #<verify_code>
 # 百度站点验证
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baiduSiteVerification: <meta name="baidu-site-verification" content="codeva-9sXD0oLeVB" />
+baiduSiteVerification: #<codeva-9sXD0oLeVB>
 
 
 # ---------------------------------------------------------------
