@@ -29,7 +29,7 @@ darkmode: false
 # 站点基本信息
 # Site Information Settings
 author: 章鱼腿很长
-subtitle: 不设限，做个行动的巨人！
+subtitle: 有关工作、生活的一些感悟和思考！
 eywords: 博客,硬件设计,章鱼腿很长,quickmodule
 
 # 不同尺寸站点图标
@@ -106,7 +106,7 @@ sidebar:
   # Manual define the sidebar width. If commented, will be default for:
   # Muse | Mist: 320
   # Pisces | Gemini: 240
-  width: 256
+  width: 320
 
   # 侧边栏的显示方式，可选值：
   #  - post    默认在文章页面展开显示
@@ -144,6 +144,7 @@ siteState:
   # 是否在侧边栏显示文章、分类、标签信息
   # Posts / Categories / Tags in sidebar.
   basic: true
+  tags: true
   # 站点访问信息
   # Site information
   views: 
@@ -421,7 +422,7 @@ followMe:
 # Post edit
 # Easily browse and edit blog source code online.
 postEdit:
-  enable: true
+  enable: false
   url: https://github.com/user-name/repo-name/tree/branch-name/subdirectory-name/
 
 
@@ -611,7 +612,7 @@ yandexSiteVerification: #<verify_code>
 # 百度站点验证
 # Baidu Webmaster tools verification.
 # See: https://ziyuan.baidu.com/site
-baiduSiteVerification: #<verify_code>
+baiduSiteVerification: <meta name="baidu-site-verification" content="codeva-9sXD0oLeVB" />
 
 
 # ---------------------------------------------------------------
