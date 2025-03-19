@@ -2,7 +2,7 @@
 title: 无源晶振外部负载电容计算
 slug: Load-capacitance-cal
 date: 2025-03-19T21:08:26+08:00
-lastmod: 2025-03-19T21:50:09+08:00
+lastmod: 2025-03-19T21:55:38+08:00
 author: 章鱼腿很长
 categories:
   - 硬件设计
@@ -38,3 +38,11 @@ CL的表达式如下：
 Cs取值为5pF。
 
 则 Cl1=Cl2=30pF。
+
+
+> [!INFO]
+>以上为通用计算方法，不同芯片可能存在特殊的计算方法，设计时先查找数据手册。
+
+## 参考链接
+
+[Guidelines for oscillator design on STM8AF/AL/S and STM32 MCUs/MPUs - Application note](https://www.st.com/resource/en/application_note/cd00221665-oscillator-design-guide-for-stm8af-al-s-stm32-mcus-and-mpus-stmicroelectronics.pdf)
