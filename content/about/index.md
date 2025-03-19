@@ -11,19 +11,33 @@ copyright: false
 url: about.html
 ---
 
-`Hugo NexT` 组织是由众多喜爱 `NexT` 主题及风格的世界各地友人共同组建而成，为的就是让这个主题继续在 `Hugo` 引擎中也能得到发扬光大，在此也欢迎你的加入！
 
-# 我们的愿景
+# **📍 关于我**
 
-延续 `NexT` 经典的黑白调搭配，保持简单的易用性及强大的功能。
+哈喽，朋友。很高兴能在这里相遇。
 
-# 使用反馈
+我是 **「章鱼腿很长」** 
 
-- 加入 [GitHub Discussions](https://github.com/hugo-next/hugo-theme-next/discussions) 或 [Gitter](https://gitter.im/hugo-next/community) 在线讨论 :beers:
-- [GitHub Issues](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Bug&template=bug-report.md) 提交错误报告 :bug:
-- [GitHub Feature](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Feature+Request&template=feature-request.md) 表新功能的想法 :sparkles:
+硬件开发摸爬滚打多年，心里却一直向往着草原和远方。
+
+维护着一个小项目，**「[QuickModule](https://quickmodule.dl07.vip)」| 让硬件开发像搭积木一样简单**  
+
+
+
+# **✍️**写什么
+
+* 写下今天学到了什么。
+* 记录正在做的项目。
+* 分享有趣的东西。
+
 
 > [!INFO]
-> 同时国内用户也可加入 QQ 群交流： 604710815
+>博客到底写什么也是受到这篇博客的启发。[What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
 
-{{< music url="/music/sky.mp3" name="天空之城" artist="宫崎骏" cover="/music/gongqijun.jpg" autoplay="true" >}}
+
+
+# **🎯 正在做**
+
+如果你有硬件产品外包、 原型开发、商务合作的需求。
+
+可以微信联系我 ： dl07vip     注明来意，谢谢~
