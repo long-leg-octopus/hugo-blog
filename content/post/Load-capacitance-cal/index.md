@@ -2,8 +2,8 @@
 title: 无源晶振外部负载电容计算
 slug: Load-capacitance-cal
 date: 2025-03-19T21:08:26+08:00
-lastmod: 2025-03-19T21:30:35+08:00
-author: 章鱼
+lastmod: 2025-03-19T21:50:09+08:00
+author: 章鱼腿很长
 categories:
   - 硬件设计
 tags:
@@ -32,5 +32,9 @@ images:
 上图是晶振的数据手册中关于晶振特性的介绍。可以看到CL=20pF。
 
 CL的表达式如下：
-$$Cl=\frac{Cl1*Cl2}{Cl1+Cl2}+Cs$$
-Cs取值为5pF。则 Cl1=Cl2=30pF。
+
+![|700x61](./index-1742392194607.webp)
+
+Cs取值为5pF。
+
+则 Cl1=Cl2=30pF。
